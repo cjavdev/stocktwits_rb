@@ -1,0 +1,2 @@
+class Stocktwits
+end
